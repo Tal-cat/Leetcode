@@ -1,9 +1,12 @@
 '''
-Performance
-Runtime 7335ms, Beats 6.33%, Memory 14.9MB, Beats 91.41. 
+Level: easy
+
+Performance: Runtime 7335ms, Beats 6.33%, Memory 14.9MB, Beats 91.41. 
 '''
 
 '''
+Fresh-hand solution. Easy for beginners to understand
+
 Instead of comparing values , index comparasion shall be used since there exists duplicate values.
 
 Function enumernate() can reture both index and item in given lists. So we don't need to define an i or j 
