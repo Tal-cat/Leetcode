@@ -1,7 +1,7 @@
 '''
 Level: easy
 
-Performance: Runtime 7335ms, Beats 6.33%, Memory 14.9MB, Beats 91.41. 
+Performance: Runtime 7335ms, Beats 6.33%, Memory 14.9MB, Beats 91.41%. 
 '''
 
 '''
@@ -15,6 +15,7 @@ to keep track of the index.
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        # START
         for index_1, item_1 in enumerate(nums):
             for index_2, item_2 in enumerate(nums):
                 if index_1 !=  index_2:
