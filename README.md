@@ -9,4 +9,4 @@
 | 66 | Plus One | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/66.%20Plus%20One.py) | Easy |
 
 
-Array take home points: take care of the index and make good use of pointer.
+Array take home points: take care of the index and make good use of pointer (e.g. left and right).
