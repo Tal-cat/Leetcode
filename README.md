@@ -1,6 +1,7 @@
 | # | Title | Class | Solution | Difficulty |
 | --- | --- | --- | --- | --- |
 | 1 | Two Sum | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/1.%20Two%20Sum.py) | Easy |
+| 4 | Median of Two Sorted Arrays | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/4.%20Median%20of%20Two%20Sorted%20Arrays.py) | Hard |
 | 11 | Container With Most Water | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/11.%20Container%20With%20Most%20Water.py) | Medium |
 | 15 | 3Sum | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/15.%203Sum.py) | Medium |
 | 26 | Remove Duplicates from Sorted Array | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array) | Easy |
