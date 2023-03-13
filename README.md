@@ -7,6 +7,6 @@
 | 27 | Remove Element | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/27.%20Remove%20Element.py) | Easy |
 | 35 | Search Insert Position | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/35.%20Search%20Insert%20Position.py) | Easy |
 | 66 | Plus One | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/66.%20Plus%20One.py) | Easy |
-
+| 101 | Symmetric Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/101.%20Symmetric%20Tree.py) | Easy |
 
 Array take home points: take care of the index and make good use of pointer (e.g. left and right).
