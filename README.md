@@ -11,5 +11,6 @@
 | 66 | Plus One | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/66.%20Plus%20One.py) | Easy |
 | 101 | Symmetric Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/101.%20Symmetric%20Tree.py) | Easy |
 | 129 | Sum Root to Leaf Numbers | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/129.%20Sum%20Root%20to%20Leaf%20Numbers.py) | Medium |
+| 958 | Check Completeness of a Binary Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py) | Medium |
 
 Array take home points: take care of the index and make good use of pointer (e.g. left and right).
