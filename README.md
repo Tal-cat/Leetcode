@@ -15,5 +15,6 @@
 | 129 | Sum Root to Leaf Numbers | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/129.%20Sum%20Root%20to%20Leaf%20Numbers.py) | Medium |
 | 208 | Implement Trie (Prefix Tree) | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/208.%20Implement%20Trie%20(Prefix%20Tree).py) | Medium |
 | 958 | Check Completeness of a Binary Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py) | Medium |
+| 1472 | Design Browser History | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/1472.%20Design%20Browser%20History.py) | Medium |
 
 Array take home points: take care of the index and make good use of pointer (e.g. left and right).
