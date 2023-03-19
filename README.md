@@ -14,7 +14,7 @@
 | 106 | onstruct Binary Tree from Inorder and Postorder Traversal | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py) | Medium |
 | 129 | Sum Root to Leaf Numbers | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/129.%20Sum%20Root%20to%20Leaf%20Numbers.py) | Medium |
 | 208 | Implement Trie (Prefix Tree) | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/208.%20Implement%20Trie%20(Prefix%20Tree).py) | Medium |
-| 211 | Design Add and Search Words Data Structure | String | [Python]() | Medium |
+| 211 | Design Add and Search Words Data Structure | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py) | Medium |
 | 958 | Check Completeness of a Binary Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py) | Medium |
 | 1472 | Design Browser History | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/1472.%20Design%20Browser%20History.py) | Medium |
 
