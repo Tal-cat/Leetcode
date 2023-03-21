@@ -18,5 +18,7 @@
 | 605 | Can Place Flowers | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/605.%20Can%20Place%20Flowers.py) | Easy |
 | 958 | Check Completeness of a Binary Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py) | Medium |
 | 1472 | Design Browser History | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/1472.%20Design%20Browser%20History.py) | Medium |
+| 2348 | Number of Zero-Filled Subarrays | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/2348.%20Number%20of%20Zero-Filled%20Subarrays.py) | Medium |
+
 
 Array take home points: take care of the index and make good use of pointer (e.g. left and right).
