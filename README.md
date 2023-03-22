@@ -19,6 +19,7 @@
 | 958 | Check Completeness of a Binary Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py) | Medium |
 | 1472 | Design Browser History | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/1472.%20Design%20Browser%20History.py) | Medium |
 | 2348 | Number of Zero-Filled Subarrays | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/2348.%20Number%20of%20Zero-Filled%20Subarrays.py) | Medium |
+| 2492 | Minimum Score of a Path Between Two Cities | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.py) | Medium |
 
 
 Array take home points: take care of the index and make good use of pointer (e.g. left and right).
