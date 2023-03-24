@@ -16,6 +16,7 @@
 | 208 | Implement Trie (Prefix Tree) | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/208.%20Implement%20Trie%20(Prefix%20Tree).py) | Medium |
 | 211 | Design Add and Search Words Data Structure | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py) | Medium |
 | 605 | Can Place Flowers | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/605.%20Can%20Place%20Flowers.py) | Easy |
+| 704 | Binary Search | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/704.%20Binary%20Search.py) | Easy |
 | 958 | Check Completeness of a Binary Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py) | Medium |
 | 1319 | Number of Operations to Make Network Connected | Graph | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Graph/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.py) | Medium |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Graph | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Graph/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.py) | Medium |
