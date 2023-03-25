@@ -21,6 +21,7 @@
 | 1319 | Number of Operations to Make Network Connected | Graph | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Graph/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.py) | Medium |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Graph | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Graph/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.py) | Medium |
 | 1472 | Design Browser History | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/1472.%20Design%20Browser%20History.py) | Medium |
+| 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | Graph | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Graph/2316.%20Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.py) | Medium |
 | 2348 | Number of Zero-Filled Subarrays | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/2348.%20Number%20of%20Zero-Filled%20Subarrays.py) | Medium |
 | 2492 | Minimum Score of a Path Between Two Cities | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.py) | Medium |
 
