@@ -9,6 +9,7 @@
 | 35 | Search Insert Position | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/35.%20Search%20Insert%20Position.py) | Easy |
 | 41 | First Missing Positive | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/41.%20First%20Missing%20Positive.py) | Hard |
 | 42 | Trapping Rain Water | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/42.%20Trapping%20Rain%20Water.py) | Hard |
+| 64 | Minimum Path Sum | Dynamic Programming | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Dynamic%20Programming/64.%20Minimum%20Path%20Sum.py) | Medium |
 | 66 | Plus One | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/66.%20Plus%20One.py) | Easy |
 | 101 | Symmetric Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/101.%20Symmetric%20Tree.py) | Easy |
 | 106 | onstruct Binary Tree from Inorder and Postorder Traversal | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py) | Medium |
