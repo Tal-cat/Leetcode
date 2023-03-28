@@ -14,6 +14,7 @@
 | 101 | Symmetric Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/101.%20Symmetric%20Tree.py) | Easy |
 | 106 | onstruct Binary Tree from Inorder and Postorder Traversal | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py) | Medium |
 | 129 | Sum Root to Leaf Numbers | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/129.%20Sum%20Root%20to%20Leaf%20Numbers.py) | Medium |
+| 203 | Remove Linked List Elements | Linked List | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Linked%20List/203.%20Remove%20Linked%20List%20Elements.py) | Easy |
 | 208 | Implement Trie (Prefix Tree) | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/208.%20Implement%20Trie%20(Prefix%20Tree).py) | Medium |
 | 209 | Minimum Size Subarray Sum | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/209.%20Minimum%20Size%20Subarray%20Sum.py) | Medium | 
 | 211 | Design Add and Search Words Data Structure | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py) | Medium |
