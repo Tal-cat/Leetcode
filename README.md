@@ -20,6 +20,7 @@
 | 208 | Implement Trie (Prefix Tree) | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/208.%20Implement%20Trie%20(Prefix%20Tree).py) | Medium |
 | 209 | Minimum Size Subarray Sum | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/209.%20Minimum%20Size%20Subarray%20Sum.py) | Medium | 
 | 211 | Design Add and Search Words Data Structure | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py) | Medium |
+| 344 | Reverse String | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/344.%20Reverse%20String.py) | Easy |
 | 605 | Can Place Flowers | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/605.%20Can%20Place%20Flowers.py) | Easy |
 | 704 | Binary Search | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/704.%20Binary%20Search.py) | Easy |
 | 958 | Check Completeness of a Binary Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py) | Medium |
