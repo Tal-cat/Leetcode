@@ -27,6 +27,7 @@
 | 983 | Minimum Cost For Tickets | Dynamic Programming | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Dynamic%20Programming/983.%20Minimum%20Cost%20For%20Tickets.py) | Medium |
 | 1319 | Number of Operations to Make Network Connected | Graph | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Graph/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.py) | Medium |
 | 1402 | Reducing Dishes | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/1402.%20Reducing%20Dishes.py) | Hard |
+| 1444 | Number of Ways of Cutting a Pizza | Dynamic Programming | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Dynamic%20Programming/1444.%20Number%20of%20Ways%20of%20Cutting%20a%20Pizza.py) | Hard |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Graph | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Graph/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.py) | Medium |
 | 1472 | Design Browser History | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/1472.%20Design%20Browser%20History.py) | Medium |
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | Graph | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Graph/2316.%20Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.py) | Medium |
