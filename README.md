@@ -33,6 +33,7 @@
 | 1472 | Design Browser History | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/1472.%20Design%20Browser%20History.py) | Medium |
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | Graph | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Graph/2316.%20Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.py) | Medium |
 | 2348 | Number of Zero-Filled Subarrays | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/2348.%20Number%20of%20Zero-Filled%20Subarrays.py) | Medium |
+| 2390 | Removing Stars From a String | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/2390.%20Removing%20Stars%20From%20a%20String.py) | Medium |
 | 2492 | Minimum Score of a Path Between Two Cities | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.py) | Medium |
 
 
