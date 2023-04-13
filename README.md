@@ -25,6 +25,7 @@
 | 344 | Reverse String | String | [Python](https://github.com/Tal-cat/Leetcode/blob/main/String/344.%20Reverse%20String.py) | Easy |
 | 605 | Can Place Flowers | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/605.%20Can%20Place%20Flowers.py) | Easy |
 | 704 | Binary Search | Array | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Array/704.%20Binary%20Search.py) | Easy |
+| 946 | Validate Stack Sequences | Stack | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Stack/946.%20Validate%20Stack%20Sequences.py) | Medium |
 | 958 | Check Completeness of a Binary Tree | Binary Tree | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Binary%20Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py) | Medium |
 | 983 | Minimum Cost For Tickets | Dynamic Programming | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Dynamic%20Programming/983.%20Minimum%20Cost%20For%20Tickets.py) | Medium |
 | 1319 | Number of Operations to Make Network Connected | Graph | [Python](https://github.com/Tal-cat/Leetcode/blob/main/Graph/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.py) | Medium |
